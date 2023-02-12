@@ -10,5 +10,5 @@ This is just a showcase built w NestJS + Typescript of a read-only api-controlle
 
 ## Usage
 The api-controller is available at `http://localhost:3000/api/v1` and has the following endpoints:
-- `http://localhost:3000/api/v1/ecommerce/{users,orders,items}` - returns a list of all users, orders or items
+- `http://localhost:3000/api/v1/ecommerce/list/{users,orders,items}` - returns a list of all users, orders or items
 - `http://localhost:3000/api/v1/ecommerce/{users,orders,items}/{id}` - returns a single user, order or item by id
