@@ -1,0 +1,11 @@
+id,name,description,price,available,leftInStock,createdAt,updatedAt
+1,item1,"A wonderful item",10,true,5,2023-02-12T10:00:00Z,2023-02-12T10:00:00Z
+2,item2,"An amazing item",20,true,10,2023-02-12T11:00:00Z,2023-02-12T11:00:00Z
+3,item3,"A fantastic item",30,false,0,2023-02-12T12:00:00Z,2023-02-12T12:00:00Z
+4,item4,"A remarkable item",40,true,15,2023-02-12T13:00:00Z,2023-02-12T13:00:00Z
+5,item5,"A splendid item",50,true,20,2023-02-12T14:00:00Z,2023-02-12T14:00:00Z
+6,item6,"An extraordinary item",60,false,0,2023-02-12T15:00:00Z,2023-02-12T15:00:00Z
+7,item7,"A remarkable item",70,true,25,2023-02-12T16:00:00Z,2023-02-12T16:00:00Z
+8,item8,"An incredible item",80,true,30,2023-02-12T17:00:00Z,2023-02-12T17:00:00Z
+9,item9,"A phenomenal item",90,false,0,2023-02-12T18:00:00Z,2023-02-12T18:00:00Z
+10,item10,"A fabulous item",100,true,35,2023-02-12T19:00:00Z,2023-02-12T19:00:00Z

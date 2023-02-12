@@ -1,0 +1,11 @@
+id,firstName,lastName,email,createdAt,updatedAt
+1,John,Doe,johndoe@example.com,2022-01-01,2022-01-01
+2,Jane,Doe,janedoe@example.com,2022-02-01,2022-02-01
+3,Jim,Smith,jimsmith@example.com,2022-03-01,2022-03-01
+4,Sarah,Johnson,sarahjohnson@example.com,2022-04-01,2022-04-01
+5,Tom,Brown,tombrown@example.com,2022-05-01,2022-05-01
+6,Amy,Williams,amywilliams@example.com,2022-06-01,2022-06-01
+7,Michael,Jones,michaeljones@example.com,2022-07-01,2022-07-01
+8,Emily,Miller,emilymiller@example.com,2022-08-01,2022-08-01
+9,David,Davis,daviddavis@example.com,2022-09-01,2022-09-01
+10,Jessica,Garcia,jessicagarcia@example.com,2022-10-01,2022-10-01
